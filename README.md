@@ -1,12 +1,12 @@
 # Termux Banner
-#Script by Parixit Sutariya
+#Script by Esan Ahmed Abir
 
 ## Installation :
 
-1) git clone https://github.com/Bhai4You/Termux-Banner
+1) git clone https://github.com/RayhanAhmedAbir/banner
 
 
-2) cd Termux-Banner
+2) cd banner
 
 
 3) chmod +x requirement.sh
@@ -31,7 +31,7 @@
 
 ## Tutorial :
 <p>
-  <a href="https://bhai4you.blogspot.com/2021/12/evileye2.html">Easy New Method</a>
+  <a href="https://www.facebook.com/abir.official.profile">Easy New Method</a>
   </p>
 
 
